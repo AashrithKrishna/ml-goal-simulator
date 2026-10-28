@@ -1,0 +1,18 @@
+# Goal Probability Simulator - Dependencies
+# Install with: pip install -r requirements.txt
+
+# Web framework
+streamlit>=1.28.0
+
+# Computer Vision & ML
+opencv-python>=4.8.0
+ultralytics>=8.0.0
+torch>=2.0.0
+numpy>=1.24.0
+
+# Video processing (optional but recommended)
+av>=10.0.0
+
+# Image processing utilities
+Pillow>=10.0.0
+scipy>=1.11.0
